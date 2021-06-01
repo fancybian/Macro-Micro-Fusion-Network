@@ -1,5 +1,6 @@
 # Macro-Micro-Fusion-Network
-WThis is our Pytorch implementation for our WWW 2021 full paper:> Shuqing Bian, Wayne Xin Zhao, Kun Zhou, Xu Chen, Jing Cai, Yancheng He, Xinji Luo, and Ji-Rong Wen (2021). "A Novel Macro-Micro Fusion Network for User Representation Learning on Mobile Apps." In WWW 2021.
+WThis is our Pytorch implementation for our WWW 2021 full paper:
+> Shuqing Bian, Wayne Xin Zhao, Kun Zhou, Xu Chen, Jing Cai, Yancheng He, Xinji Luo, and Ji-Rong Wen (2021). "A Novel Macro-Micro Fusion Network for User Representation Learning on Mobile Apps." In WWW 2021.
 
 
 ## Overview
