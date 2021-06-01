@@ -5,7 +5,7 @@ WThis is our Pytorch implementation for our WWW 2021 full paper:> Shuqing Bian, 
 ## Overview
 we presented a Macro-micro Fusion Network **MFN** for user representation learning on mobile apps. We proposed two major extensions for information fusion between macro and micro views. First, we designed a fusion network that is able to align the semantics of app categories with those of item categories. Second, we further utilized the mutual information maximization technique to improve the learning of the fusion network. Extensive experi- ments conducted on three downstream tasks have demonstrated the effectiveness of our proposed approach.
 
-<img src="https://github.com/fancybian/Macro-Micro-Fusion-Network/blob/main/MFN_model.png" width = "500px" align=center />
+<img src="https://github.com/fancybian/Macro-Micro-Fusion-Network/blob/main/MFN_model.png" width = "800px" align=center />
 
 ## Requirements
 - Python 3.6
